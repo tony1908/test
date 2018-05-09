@@ -1,0 +1,12 @@
+{
+	"name": "traveobackend",
+  	"version": "0.0.0",
+  	"private": true,
+	"scripts": {
+	    "test": "./node_modules/mocha/bin/_mocha --recursive test"
+	 },
+	  "dependencies": {
+	    "mocha": "^5.1.1",
+	    "sinon": "^5.0.4"
+	  }
+}
